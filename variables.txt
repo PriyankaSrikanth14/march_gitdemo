@@ -1,0 +1,7 @@
+name=priyanka
+area=bhel
+city=hyderabad
+role=devops engineer
+
+
+
