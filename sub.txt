@@ -1,0 +1,10 @@
+#!/bin/bash
+	
+source variables.txt
+
+echo "Name is $name"
+echo "Role is $role"
+echo "Area is $area"
+
+
+
